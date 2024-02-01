@@ -1,7 +1,0 @@
-C:\Users\Kab-35-6\source\repos\Уч  пр 3\bin\Debug\Уч  пр 3.exe.config
-C:\Users\Kab-35-6\source\repos\Уч  пр 3\bin\Debug\Уч  пр 3.exe
-C:\Users\Kab-35-6\source\repos\Уч  пр 3\bin\Debug\Уч  пр 3.pdb
-C:\Users\Kab-35-6\source\repos\Уч  пр 3\obj\Debug\Уч  пр 3.csproj.AssemblyReference.cache
-C:\Users\Kab-35-6\source\repos\Уч  пр 3\obj\Debug\Уч  пр 3.csproj.CoreCompileInputs.cache
-C:\Users\Kab-35-6\source\repos\Уч  пр 3\obj\Debug\Уч  пр 3.exe
-C:\Users\Kab-35-6\source\repos\Уч  пр 3\obj\Debug\Уч  пр 3.pdb
