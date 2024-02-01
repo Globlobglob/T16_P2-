@@ -1,0 +1,7 @@
+C:\Users\MosquitoParisi\Desktop\Practicum\T16_P2\bin\Debug\T16_P2.exe.config
+C:\Users\MosquitoParisi\Desktop\Practicum\T16_P2\bin\Debug\T16_P2.exe
+C:\Users\MosquitoParisi\Desktop\Practicum\T16_P2\bin\Debug\T16_P2.pdb
+C:\Users\MosquitoParisi\Desktop\Practicum\T16_P2\obj\Debug\T16_P2.csproj.AssemblyReference.cache
+C:\Users\MosquitoParisi\Desktop\Practicum\T16_P2\obj\Debug\T16_P2.csproj.CoreCompileInputs.cache
+C:\Users\MosquitoParisi\Desktop\Practicum\T16_P2\obj\Debug\T16_P2.exe
+C:\Users\MosquitoParisi\Desktop\Practicum\T16_P2\obj\Debug\T16_P2.pdb
